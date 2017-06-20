@@ -25,6 +25,10 @@ footer {
   color: #666666;
 }
 
+.skills{
+  color: white;
+}
+
 .intro { background: url(../img/neuron.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 .intro h1 { font-size: 40px; margin: 40px 0 10px; font-weight: 900; color: black;}
 .intro h1 span { color: white; display: inline-block; }
@@ -33,3 +37,5 @@ footer {
 
 
 .about {background: url(../img/volcano.jpg)no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto;}
+
+.skills {background: url(../img/subway.jpg)no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto;}
