@@ -12,6 +12,10 @@ footer {
     margin: 50px 0;
 }
 
+.Headline{
+  font-family: 'Cairo', sans-serif;
+}
+
 .headshot {
 	margin: 0 auto;
 }
@@ -33,8 +37,14 @@ footer {
   color: white;
 }
 
+.project-description{
+  /*font-family: 'Josefin Sans', sans-serif;*/
+  font-family: 'Rubik', sans-serif;
+}
 
-
+.project-headline{
+  font-family: 'Play', sans-serif;
+}
 
 .intro { background: url(../img/busan.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 .intro h1 { font-size: 40px; margin: 40px 0 10px; font-weight: 900; color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;}
